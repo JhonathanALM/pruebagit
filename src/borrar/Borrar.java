@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 package borrar;
 
@@ -13,6 +9,9 @@ package borrar;
 public class Borrar {
     public static void main(String[] args) {
         System.out.println(" hola git");
+        System.out.println("Prueba 2 de github");
+        
+       
     }
 
 }
